@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.security.auth.x500.X500Principal"/>
+<fullyQualifiedTypeName name="java.beans.IntrospectionException"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="javax.swing.ImageIcon"/>
+<fullyQualifiedTypeName name="PrintCalendar"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.xpath.internal.operations.String"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.xml.internal.utils.NameSpace"/>
+<fullyQualifiedTypeName name="MinMaxDemo"/>
+<fullyQualifiedTypeName name="Role"/>
+<fullyQualifiedTypeName name="Circle"/>
+<fullyQualifiedTypeName name="CircleV2"/>
+<fullyQualifiedTypeName name="Hero"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+<fullyQualifiedTypeName name="GameRoom"/>
+<fullyQualifiedTypeName name="HumanPlayer"/>
+<fullyQualifiedTypeName name="ComPlayer"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>

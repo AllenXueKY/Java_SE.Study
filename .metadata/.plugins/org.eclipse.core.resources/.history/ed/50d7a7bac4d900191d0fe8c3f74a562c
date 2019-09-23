@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+/**
+ * 
+ * @author
+ *
+ */
+public class HelloWorld {
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.print("Æ·ÅÆÃû£º");
+		String brand1=input.next();
+		System.out.println(brand1);
+		if (brand1=="huashuo") {
+			System.out.println("dsadsa");
+		}	
+		int[] nums=new int[6];
+		
+		nums[0]=6;
+	}
+}

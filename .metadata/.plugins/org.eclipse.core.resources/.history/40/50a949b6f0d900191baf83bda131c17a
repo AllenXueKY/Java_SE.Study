@@ -1,0 +1,41 @@
+package text;
+
+import javax.security.auth.x500.X500Principal;
+/**
+ * 
+ * @author 87366
+ *
+ */
+public class demo {
+	public static void main(String[] args) {
+		final int N = 52;
+		int[] cards = new int[N ];
+		for (int i = 0; i < cards.length; i++) {
+			cards[i]=i;
+		}
+		System.out.println("Ï´ÅÆÇ°£º");
+		for (int i = 0; i < cards.length; i++) {
+			System.out.print(cards[i]);
+			if ((i+1)%13==0) {
+				System.out.println();
+			}else {
+				System.out.print("£¬");
+			}
+		}
+		for (int i = 0; i < cards.length; i++) {
+			int newIndex=(int)(Math.random()*N);
+			int temp=cards[i];
+			cards[i]=cards[newIndex];
+			cards[newIndex]=temp;
+		}
+		System.out.println("Ï´ÅÆºó£º");
+		for (int i = 0; i < cards.length; i++) {
+			System.out.print(cards[i]);
+			if ((i+1)%13==0) {
+				System.out.println();
+			}else {
+				System.out.print("£¬");
+			}
+		}
+	}
+}

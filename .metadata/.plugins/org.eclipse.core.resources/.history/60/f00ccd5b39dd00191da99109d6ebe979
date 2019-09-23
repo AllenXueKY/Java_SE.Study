@@ -1,0 +1,18 @@
+/**
+ * 
+ * @author 87366
+ *
+ */
+public class Role {
+	public String name;
+	public int level;
+	public String job;
+	public void doSkill(){
+		if (name.equals("劳拉")) {
+			System.out.println("劳拉的经典技能：穿墙老太婆");
+		}else if (name.equals("孙悟空")) {
+			System.out.println("吃俺老孙一棒");
+		}
+		
+	}
+}
