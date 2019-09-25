@@ -1,0 +1,26 @@
+package com.jicheng.rpgdemo;
+/**
+ * 战士类 - 继承Hero类
+ * @author 87366
+ *
+ */
+public class Warrior extends Hero{
+	//战士的特有属性，物理攻击力
+	private int pysicalAttack;
+	
+	public Warrior(){}
+	
+	public Warrior(String nickName, int pysiaclAttack) {
+		setNickName(nickName);
+		setPysicalAttack(pysicalAttack);
+	}
+
+	public int getPysicalAttack() {
+		return pysicalAttack;
+	}
+
+	public void setPysicalAttack(int pysicalAttack) {
+		this.pysicalAttack = pysicalAttack;
+	}
+	
+}

@@ -1,0 +1,13 @@
+package com.jicheng.rpgdemo;
+
+public class HeroTest {
+
+	public static void main(String[] args) {
+		Warrior º«ÐÅ = new Warrior("º«ÐÅ",500);
+		System.out.println(º«ÐÅ.getNickName());
+		Archmage õõ²õ = new Archmage("õõ²õ");
+		System.out.println("õõ²õ");
+		
+	}
+
+}
