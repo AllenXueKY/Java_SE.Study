@@ -28,7 +28,8 @@
 <fullyQualifiedTypeName name="StringUtil"/>
 <fullyQualifiedTypeName name="com.jicheng.rpgdemo.Warrior"/>
 <fullyQualifiedTypeName name="com.jicheng.rpgdemo.Hero"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
 <fullyQualifiedTypeName name="com.jicheng.rpgdemo.Archmage"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.jicheng.chunwan.Actor"/>
 </qualifiedTypeNameHistroy>

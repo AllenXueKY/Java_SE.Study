@@ -1,5 +1,6 @@
+package com.jicheng.chunwan;
 
-public class AppMain {
+public class ChunWanTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
