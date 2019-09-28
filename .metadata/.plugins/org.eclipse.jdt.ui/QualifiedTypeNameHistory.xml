@@ -21,8 +21,6 @@
 <fullyQualifiedTypeName name="GameRoom"/>
 <fullyQualifiedTypeName name="HumanPlayer"/>
 <fullyQualifiedTypeName name="ComPlayer"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.lang.CharSequence"/>
 <fullyQualifiedTypeName name="java.lang.Character"/>
 <fullyQualifiedTypeName name="StringUtil"/>
@@ -30,6 +28,12 @@
 <fullyQualifiedTypeName name="com.jicheng.rpgdemo.Hero"/>
 <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
 <fullyQualifiedTypeName name="com.jicheng.rpgdemo.Archmage"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="com.jicheng.chunwan.Actor"/>
+<fullyQualifiedTypeName name="java.lang.Process"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.text.ParseException"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.AllenXue.JavaBase.Homeork3.Person"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
