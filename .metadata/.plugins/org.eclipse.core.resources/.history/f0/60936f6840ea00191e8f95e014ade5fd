@@ -1,0 +1,5 @@
+package com.jicheng.printdemo.iface;
+
+public class iPaper {
+
+}

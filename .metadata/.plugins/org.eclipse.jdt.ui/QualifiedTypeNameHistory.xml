@@ -33,7 +33,16 @@
 <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
 <fullyQualifiedTypeName name="java.text.ParseException"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="com.AllenXue.JavaBase.Homeork3.Person"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.jicheng.printdemo.Printer"/>
+<fullyQualifiedTypeName name="com.jicheng.printdemo.iface.iinkBox"/>
+<fullyQualifiedTypeName name="com.jicheng.printdemo.impl.ColorInkBoxImpl"/>
+<fullyQualifiedTypeName name="com.jicheng.printdemo.impl.A4PaperImpl"/>
+<fullyQualifiedTypeName name="com.jicheng.printdemo.iface.iPaper"/>
+<fullyQualifiedTypeName name="com.jicheng.printdemo.B5PaperImpl"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
