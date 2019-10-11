@@ -1,0 +1,10 @@
+package com.ioStream;
+
+public class Downloader_RandomAccessFile {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
