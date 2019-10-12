@@ -7,7 +7,6 @@
 <fullyQualifiedTypeName name="PrintCalendar"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
-<fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="com.sun.org.apache.xpath.internal.operations.String"/>
 <fullyQualifiedTypeName name="com.sun.org.apache.xml.internal.utils.NameSpace"/>
 <fullyQualifiedTypeName name="MinMaxDemo"/>
@@ -16,7 +15,6 @@
 <fullyQualifiedTypeName name="CircleV2"/>
 <fullyQualifiedTypeName name="Hero"/>
 <fullyQualifiedTypeName name="java.lang.Math"/>
-<fullyQualifiedTypeName name="java.lang.Thread"/>
 <fullyQualifiedTypeName name="java.lang.InterruptedException"/>
 <fullyQualifiedTypeName name="GameRoom"/>
 <fullyQualifiedTypeName name="HumanPlayer"/>
@@ -44,5 +42,16 @@
 <fullyQualifiedTypeName name="java.io.InputStream"/>
 <fullyQualifiedTypeName name="java.io.FileInputStream"/>
 <fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.javabase.concurrent.Actor"/>
+<fullyQualifiedTypeName name="java.lang.Runnable"/>
+<fullyQualifiedTypeName name="com.javabase.concurrent.Actress"/>
+<fullyQualifiedTypeName name="com.javabase.concurrent.base.ArmyRunnable"/>
+<fullyQualifiedTypeName name="javax.swing.JInternalFrame"/>
+<fullyQualifiedTypeName name="com.javabase.concurrent.base.Stage"/>
+<fullyQualifiedTypeName name="com.javabase.concurrent.base.KeyPersonThread"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
 </qualifiedTypeNameHistroy>
