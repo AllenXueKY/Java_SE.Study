@@ -10,6 +10,20 @@ import javax.swing.JInternalFrame;
 public class Stage extends Thread {
 	
 	public void run() {
+		System.out.println("欢迎观看隋唐演义");
+		try {
+			Thread.sleep(5000);
+		} catch (InterruptedException e1) {
+			e1.printStackTrace();
+		}
+		System.out.println("大幕徐徐拉开");
+		try {
+			Thread.sleep(5000);
+		} catch (InterruptedException e1) {
+			e1.printStackTrace();
+		}
+		System.out.println("话说隋朝末年，隋军与农民起义军杀得昏天黑地。。。");
+		
 		ArmyRunnable armyTsakOfDynasty = new ArmyRunnable();//隋朝军队
 		ArmyRunnable armyTsakOfRevolt = new ArmyRunnable(); //农民起义军
 		//使用Runnable接口创建线程
@@ -24,15 +38,6 @@ public class Stage extends Thread {
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
-		
-		armyTsakOfDynasty.keepRunning = false;
-		armyTsakOfRevolt.keepRunning = false;
-		try {
-			armyOfRevolt.join();
-		} catch (InterruptedException e) {
-			e.printStackTrace();
-		}
-
 		System.out.println("正当双方激战正酣，半路杀出个程咬金");
 		Thread mrCheng = new KeyPersonThread();
 		mrCheng.setName("程咬金");
@@ -55,7 +60,8 @@ public class Stage extends Thread {
 		} catch (InterruptedException e) {
 			e.printStackTrace();
 		}
-		
+		System.out.println("战争结束，人民安居乐业，程先生实现了积极的人生梦想，为人民做出了贡献");
+		System.out.println("谢谢大家的观看，再见！");
 		
 	}
 	
