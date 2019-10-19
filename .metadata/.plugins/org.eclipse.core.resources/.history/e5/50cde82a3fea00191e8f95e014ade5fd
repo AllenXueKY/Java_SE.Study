@@ -1,9 +1,0 @@
-package com.jicheng.printdemo.iface;
-/**
- * 
- * @author 87366
- *
- */
-public class Printer {
-
-}
